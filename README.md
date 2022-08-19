@@ -12,7 +12,7 @@ The company would like to increase sales, but the budget allows it to invest onl
 
 <div align="center">
 <p float="left">
-    <img src="/images/.jpg" width="1000" height="500"/>
+    <img src="/images/ecommerce.png" width="750" height="500"/>
 </p>
 </div>
 
