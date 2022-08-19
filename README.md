@@ -35,7 +35,15 @@ The title of each column in the dataset is self-explanatory.
 ***
 ## 3. SOLUTION PLANNING
 
+- [x] **STEP 01:** **Exploratory Data Analysis**
 
+- [x] **STEP 02:** **Pre-processing**
+	* Categorical Variables
+		- Label Encoding
+		- One-Hot Encoding
+	* Numerical Variables: Feature Scaling
+		- Normalization
+		- Standardization
 ***
 
 Made By **Camila D'Angelo**
