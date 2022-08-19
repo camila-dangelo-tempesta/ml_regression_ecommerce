@@ -39,11 +39,12 @@ The title of each column in the dataset is self-explanatory.
 
 - [x] **STEP 02:** **Pre-processing**
 	* Categorical Variables
-		- Label Encoding
-		- One-Hot Encoding
-	* Numerical Variables: Feature Scaling
-		- Normalization
+	* Numerical Variables
 		- Standardization
+
+- [x] **STEP 03:** **MachinE Learning**
+
+
 ***
 
 Made By **Camila D'Angelo**
