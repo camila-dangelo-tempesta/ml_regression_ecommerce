@@ -1,7 +1,6 @@
-# **Regression to increase E-commerce sales**
+# **Supervised Regression Machine Learning for Ecommerce**
 
-## Supervised Regression Machine Learning for Ecommerce
-
+## Supervised Regression Machine Learning for Ecommerce Sales Increase
 
 An e-commerce company sells products through its website and through its mobile app. To make a purchase, a customer registers on the portal (using a web site or app).
 
