@@ -8,7 +8,6 @@ Each time the customer logs in, the system records the time he is logged in, whe
 
 The company would like to increase sales, but the budget allows it to invest only in the website or app at this time.
 
-
 <div align="center">
 <p float="left">
     <img src="/images/ecommerce.jpg" width="800" height="500"/>
@@ -34,6 +33,7 @@ The data represents a month of operation of the ecommerce portal.
 The title of each column in the dataset is self-explanatory.
 
 ***
+## 3. SOLUTION PLANNING
 
 
 ***
