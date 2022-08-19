@@ -43,7 +43,7 @@ The title of each column in the dataset is self-explanatory.
 		- Standardization
 
 - [x] **STEP 03:** **MachinE Learning**
-1. Linear Regression (Benchmark)
+1. **Linear Regression (Benchmark)**
 2. Ridge Regression
 3. Lasso Regression
 
