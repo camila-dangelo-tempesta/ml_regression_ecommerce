@@ -1,6 +1,6 @@
 # ****
 
-## Ecommerce regression supervised machine learning
+## Supervised Regression Machine Learning for Ecommerce
 
 
 An e-commerce company sells products through its website and through its mobile app. To make a purchase, a customer registers on the portal (using a web site or app).
