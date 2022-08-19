@@ -47,6 +47,12 @@ The title of each column in the dataset is self-explanatory.
 2. Ridge Regression
 3. Lasso Regression
 
+<div align="center">
+<p float="left">
+    <img src="/images/modelos.png" width="1000" height="500"/>
+</p>
+</div>
+
 
 ***
 
